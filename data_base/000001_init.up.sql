@@ -15,7 +15,7 @@ CREATE TABLE transactions
     status varchar(255)
 };
 
-INSERT INTO users(email) values('1@ya.ru')
-INSERT INTO users(email) values('2@ya.ru')
-INSERT INTO users(email) values('3@ya.ru')
-INSERT INTO users(email) values('4@ya.ru')
+INSERT INTO users(email) values('1@ya.ru');
+INSERT INTO users(email) values('2@ya.ru');
+INSERT INTO users(email) values('3@ya.ru');
+INSERT INTO users(email) values('4@ya.ru');
